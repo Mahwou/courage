@@ -1,2 +1,3 @@
-# courage
-My site
+# Ndimbu Courage Mah
+
+My portfolio site
